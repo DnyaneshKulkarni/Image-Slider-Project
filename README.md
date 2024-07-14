@@ -1,6 +1,8 @@
 # Image Slider Project
 This project is a simple image slider built with HTML, CSS, and JavaScript. It showcases a selection of destinations with beautiful background images.
 
+You can find the website live [here](https://dnyaneshkulkarni.github.io/Image-Slider-Project/)
+
 **Features**
 
 - **Responsive Design:** Ensures optimal viewing experience across various devices.
